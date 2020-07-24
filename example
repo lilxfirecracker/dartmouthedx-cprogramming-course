@@ -7,7 +7,6 @@ int main(void){
     int x = 0;
     int y = 0; 
 
-    printf("Pick a number from 1-10\n");
     scanf("%d", &user);
     
     for (i = 0; i < 11; i++) {
